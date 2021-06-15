@@ -29,5 +29,5 @@ Predictive Result
 ------------------
 ![MachinLearning.jpg](test.png)
 
-Thank You
+Thank You<br>
 Email: ramzym872@gmail.com
