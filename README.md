@@ -2,7 +2,8 @@
 
 About
 ------
-IMAGE RECOGNATION
+IMAGE RECOGNATION<br>
+
 Image recognition, in the context of machine vision, is the ability of software to identify 
 objects, places, people, writing and actions in images. Computers can use machine 
 vision technologies in combination with a camera and artificial intelligence software to 
@@ -27,7 +28,7 @@ We're just changing the full connected to fit our case from MultiClass to Multil
 
 Predictive Result
 ------------------
-![MachinLearning.jpg](test.png)
+![MachinLearning.jpg](test_1.png)
 
 Thank You<br>
 Email: ramzym872@gmail.com
